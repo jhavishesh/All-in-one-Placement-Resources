@@ -2,7 +2,8 @@
 
 https://mega.nz/folder/ObJWzRKI#UB4HuTAhgo_NxM8v4H-bKQ
 
-## Chalye Shuru Karte Hai
+## Chaliye Shuru Karte Hai
+
 https://prepinsta.com/top-100-codes/
 
 ** Practice on Hackerank or Hackerearth.

@@ -2,15 +2,10 @@
 
 https://mega.nz/folder/ObJWzRKI#UB4HuTAhgo_NxM8v4H-bKQ
 
-## Chailye Shuru Karte Hai
+## Chalye Shuru Karte Hai
 https://prepinsta.com/top-100-codes/
 
 ** Practice on Hackerank or Hackerearth.
-
-
-## All OAL Questions of FAANG
-
-https://docs.google.com/document/d/e/2PACX-1vRqsXE-Izz-qktbRKVexkt_eByPQQzaJ5vRKnd7gMClSINVRDF6tHJwXiVoz0NnJ-V9JamNaUvDEGou/pub
 
 ## YT Channel
 
@@ -21,6 +16,8 @@ https://docs.google.com/document/d/e/2PACX-1vRqsXE-Izz-qktbRKVexkt_eByPQQzaJ5vRK
 5. Arsh Goyal
 6. Kushal Vijay
 7. Aditya Verma
+8. FreecodeCamp
+9. Pepcoding[Java only]
 
 
 ## DSA Sheet
@@ -33,18 +30,19 @@ https://docs.google.com/document/d/e/2PACX-1vRqsXE-Izz-qktbRKVexkt_eByPQQzaJ5vRK
 ** https://takeuforward.org/interview-experience/strivers-cp-sheet/?utm_source=youtube&utm_medium=striver&utm_campaign=yt_video
 
 
+## All OAL Questions of FAANG
+
+https://docs.google.com/document/d/e/2PACX-1vRqsXE-Izz-qktbRKVexkt_eByPQQzaJ5vRKnd7gMClSINVRDF6tHJwXiVoz0NnJ-V9JamNaUvDEGou/pub
+
+
 ## 14 Design Pattern
 
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
-## Resume
-
-1.https://novoresume.com/
-2. https://www.overleaf.com/project
 
 ## Core Subjects
-https://github.com/jhavishesh/Data-Structure-Algorithm-Brahmastra/tree/main/Core%20Subjects
 
+https://github.com/jhavishesh/Data-Structure-Algorithm-Brahmastra/tree/main/Core%20Subjects
 
 
 ## Coding Practice Platform
@@ -54,3 +52,45 @@ https://github.com/jhavishesh/Data-Structure-Algorithm-Brahmastra/tree/main/Core
 3. BinarySearch
 4. Codeforces
 5. Codechef
+
+## Resume
+
+1.https://novoresume.com/  <br />
+2. https://www.overleaf.com/project
+
+## Aptitude
+1.https://www.indiabix.com/ <br />
+2.https://www.faceprep.in/  <br />
+3.https://testbook.com/
+
+
+## HR Qs
+
+https://www.interviewbit.com/hr-interview-questions/
+
+## Puzzles
+
+1.https://www.geeksforgeeks.org/top-20-puzzles-commonly-asked-during-sde-interviews/ <br />
+2.https://prepinsta.com/top-100-puzzles/
+
+## Off-campus Sites
+
+1. Naukri.com
+2. Indeed
+3. Linkedln
+4. AngelList
+5. Company's Carrier Page
+
+
+
+## Pro -Tip
+
+1. Belive in Yourself
+2. Consistency is Key to Sucess
+3. Don't Compare Yourself with Others
+4. Make small Target
+
+
+Connect me @ Linkedln : https://www.linkedin.com/in/visheshjha/
+
+
